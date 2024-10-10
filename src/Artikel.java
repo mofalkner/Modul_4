@@ -57,7 +57,4 @@ public class Artikel {
 	public void setKategorienummer(int kategorienummer) {
 		this.kategorienummer = kategorienummer;
 	}
-	
-	
-
 }
