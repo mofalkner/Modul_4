@@ -21,7 +21,7 @@ public class App {
 				exporter.export(al);
 				break;
 			case "JSON":
-				exporter= new JSONExporter();
+				exporter = new JSONExporter();
 				exporter.export(al);
 				break;
 			default:
